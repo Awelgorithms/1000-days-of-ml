@@ -1,0 +1,6 @@
+## Tic-tac-toe ml
+
+Build a tic tac toe react/html app and host it on netlify/next.
+- implement minimax AI that defeats the human always or ties the game - never loses
+- Implement a 2 player mode where 2 AIs pit against each other, show the moves played by each
+- (Bonus) show the possible future moves that the AI will take based on current state of the game? would be amazing
