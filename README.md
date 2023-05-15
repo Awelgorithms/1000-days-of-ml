@@ -3,6 +3,11 @@
 ## Day 4
 Back to tic-tac-toe learning, wanted to build a tic tac toe game with minimax algorithm and have 2 AI players play against each other. But this seems to be a solved puzzle, so the game will always tie if AI played against each other. This is still a fun project idea to implement and watch them play though. 
 
+Watched Kiffman's minimax video on tic tac toe - https://www.youtube.com/watch?v=trKjYdBASyQ
+A lot of great insights
+
+Learning Kiffman's Intro to AI-ML playlist on YouTube - https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y
+
 ## Day 3 
 Tried creating a tic-tac-toe game on python, realised it's difficult as it's more of a UI based game, building the game grid etc was tricky. It's possible, but I realized it would have been way easier and friendlier if this was a js game on the browser. Didn't make much progress in terms of python code, but it was a good exercise.
 
