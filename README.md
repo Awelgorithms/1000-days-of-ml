@@ -1,9 +1,9 @@
 # 1000-days-of-ml
 
 ## Day 4
-Back to tic-tac-toe learning, wanted to build a tic tac toe game with minimax algorithm and have 2 AI players play against each other. But this seems to be a solved puzzle, so the game will always tie if AI played against each other. This is still a fun project idea to implement and watch them play though. 
 
-Watched Kiffman's minimax video on tic tac toe - https://www.youtube.com/watch?v=trKjYdBASyQ
+Started the day with stumbling over Google's article that got suggested to me on the newsfeed with this link https://www.classcentral.com/subject/ai
+which made me go to and sign up on https://course.elementsofai.com/ , made good progress to a point where it spoke about tic-tac-toe, which made me curious about tictactoe minimax algo which made me google some more so I found Kiffman's minimax video on tic tac toe - https://www.youtube.com/watch?v=trKjYdBASyQ
 A lot of great insights
 
 Learning Kiffman's Intro to AI-ML playlist on YouTube - https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y
