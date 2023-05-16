@@ -8,6 +8,8 @@ A lot of great insights
 
 Learning Kiffman's Intro to AI-ML playlist on YouTube - https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y
 
+Did some examples on image classifier, object detection - and did the examples piping them via webcam
+
 ## Day 3 
 Tried creating a tic-tac-toe game on python, realised it's difficult as it's more of a UI based game, building the game grid etc was tricky. It's possible, but I realized it would have been way easier and friendlier if this was a js game on the browser. Didn't make much progress in terms of python code, but it was a good exercise.
 
